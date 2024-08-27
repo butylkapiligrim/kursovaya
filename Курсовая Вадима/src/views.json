@@ -1,0 +1,78 @@
+{
+    "greeting": "Добрый день",
+    "cards": [
+        {
+            "last_digits": "*7197",
+            "total_spent": -160.89,
+            "cashback": -2.0
+        }
+    ],
+    "top_transactions": [
+        {
+            "date": "21.03.2019 17:01:38",
+            "amount": 190045,
+            "category": "Переводы",
+            "description": "Перевод Кредитная карта. ТП 10.2 RUR"
+        },
+        {
+            "date": "23.10.2018 12:26:15",
+            "amount": 177506,
+            "category": "Переводы",
+            "description": "Перевод Кредитная карта. ТП 10.2 RUR"
+        },
+        {
+            "date": "30.12.2021 17:50:17",
+            "amount": 174000,
+            "category": "Пополнения",
+            "description": "Пополнение через Газпромбанк"
+        },
+        {
+            "date": "14.09.2021 14:57:42",
+            "amount": 150000,
+            "category": "Пополнения",
+            "description": "Перевод с карты"
+        },
+        {
+            "date": "31.07.2020 22:27:45",
+            "amount": 150000,
+            "category": "Пополнения",
+            "description": "Перевод с карты"
+        }
+    ],
+    "currency_rates": [
+        [
+            {
+                "currency": "USD",
+                "rate": 92
+            },
+            {
+                "currency": "EUR",
+                "rate": 102
+            }
+        ]
+    ],
+    "stock_prices": [
+        [
+            {
+                "stock": "AAPL",
+                "price": 227.28
+            },
+            {
+                "stock": "AMZN",
+                "price": 177.47
+            },
+            {
+                "stock": "GOOGL",
+                "price": 167.55
+            },
+            {
+                "stock": "MSFT",
+                "price": 417.28
+            },
+            {
+                "stock": "TSLA",
+                "price": 219.09
+            }
+        ]
+    ]
+}
